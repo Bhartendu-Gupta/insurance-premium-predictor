@@ -193,13 +193,7 @@ Machine Learning | FastAPI | Python | Docker
 
 GitHub: https://github.com/Bhartendu-Gupta
 
----
 
-## 📄 License
-
-This project is created for educational and portfolio purposes.
-
----
 
 ## ⭐ Support
 
